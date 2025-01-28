@@ -1,0 +1,33 @@
+{
+    "general_information": [
+      {
+        "title": "Arab collaboration with Nazi Germany",
+        "file": "Arab collaboration with Nazi Germany.md",
+        "tags": ["arabs", "history", "nazi"],
+        "attachments": [
+          {
+            "type": "image",
+            "file": "arabcolabwiththenazis.png"
+          },
+          {
+            "type": "image",
+            "file": "FormerIraqPMMetWithNazis.jpg"
+          }
+        ]
+
+      },
+      {
+        "title": "list of all hamas terror attacks",
+        "file": "list of all hamas terror attacks.md",
+        "tags": ["hamas", "terrorism", "attacks", "history"],
+        "attachments": []
+      },
+      {
+        "title": "Hamas War Crimes",
+        "file": "Hamas War Crimes.md",
+        "tags": ["hamas", "terrorism", "war crimes"],
+        "attachments": []
+      }
+
+    ]
+}

@@ -1,0 +1,295 @@
+{
+  "offensive_arguments": [
+    {
+      "title": "Al Jazeera Connection to Hamas",
+      "file": "Al Jazeera Connection to Hamas.md",
+      "tags": ["Hamas", "Al Jazeera", "Propaganda"],
+      "attachments": [
+        {
+          "type": "image",
+          "file": "https://i.postimg.cc/FHyF3xz2/4959-en-1.webp"
+        },
+        {
+          "type": "image",
+          "file": "https://i.postimg.cc/4ycyMR43/4959-en-2.webp"
+        },
+        {
+          "type": "image",
+          "file": "https://i.postimg.cc/4dmm6hrV/4959-en-3.webp"
+        },
+        {
+          "type": "image",
+          "file": "https://i.postimg.cc/1zW8VKYy/4959-en-4.webp"
+        },
+        {
+          "type": "image",
+          "file": "https://i.postimg.cc/Njc93FHv/4959-en-5.webp"
+        },
+        {
+          "type": "image",
+          "file": "https://i.postimg.cc/WpdkrQvC/4959-en-6.webp"
+        },
+        {
+          "type": "image",
+          "file": "https://i.postimg.cc/rwMshHB8/4959-en-7.webp"
+        }
+      ]
+    },
+    {
+      "title": "Arabs trace their origins back to Yemen",
+      "file": "Arabs trace their origins back to Yemen.md",
+      "tags": ["arabs", "history", "geography", "origin"],
+      "attachments": [
+        {
+          "type": "image",
+          "file": "arabtribes.png"
+        },
+        {
+          "type": "image",
+          "file": "himyaritekingdom.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Gaza Ministry of Health is not reliable",
+      "file": "Gaza Ministry of Health is not reliable.md",
+      "tags": ["gaza", "ministry of health", "hamas"],
+      "attachments": [
+        {
+          "type": "image",
+          "file": "al_ahli_hospital_bombing_aftermath.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Hamas does target innocent civilians",
+      "file": "Hamas does target innocent civilians.md",
+      "tags": ["hamas", "war crimes", "civilians"],
+      "attachments": [
+        {
+          "type": "video",
+          "file": "https://video.wixstatic.com/video/fe5cbf_1d1b3678536d42f6a4fc45d2020bda8c/480p/mp4/file.mp4"
+        },
+        {
+          "type": "video",
+          "file": "https://video.wixstatic.com/video/fe5cbf_1c367f9901434a41a37f5fa457e7ad94/480p/mp4/file.mp4"
+        },
+        {
+          "type": "video",
+          "file": "https://video.wixstatic.com/video/fe5cbf_e8997056d4534699ba3bd00a9bc26e12/480p/mp4/file.mp4"
+        },
+        {
+          "type": "video",
+          "file": "https://video.wixstatic.com/video/fe5cbf_50490461d15c451ba54c664a47f4f6e5/480p/mp4/file.mp4"
+        },
+        {
+          "type": "video",
+          "file": "https://video.wixstatic.com/video/3ab451_26f0eda647384e5da971cdbd59769026/480p/mp4/file.mp4" 
+        },
+        {
+          "type": "image",
+          "file": "ashkelon hospital.jpg"
+        },
+        {
+          "type": "video",
+          "file": "Hamas missiles hit a residential neighborhood.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Hamas is anti-Palestine",
+      "file": "Hamas is anti-Palestine.md",
+      "tags": ["hamas", "palestine", "politics"],
+      "attachments": [
+        {
+          "type": "video",
+          "file": "Hamas is anti-Palestine - hamas beating up civilians 1.mp4"
+        },
+        {
+          "type": "video",
+          "file": "Hamas is anti-Palestine - hamas beating up civilians 2.mp4"
+        },
+        {
+          "type": "video",
+          "file": "Hamas is anti-Palestine - hamas beating up civilians 3.mp4"
+        }
+
+      ]
+    },
+    {
+      "title": "Palestinians do support hamas",
+      "file": "palestinians do support hamas.md",
+      "tags":["hamas", "politics"]
+    },
+    {
+      "title": "Hamas's inhumane treatment of hostages",
+      "file": "Hamas's inhumane treatment of hostages.md",
+      "tags": ["hamas", "hostages", "war crimes"],
+      "attachments": []
+    },
+    {
+      "title": "Hamas Suicide Attacks",
+      "file": "Hamas Suicide Attacks.md",
+      "tags": ["hamas", "suicide bombings", "suicide attacks", "terrorism"],
+      "attachments": [
+        {
+          "type": "image",
+          "file": "MuslimViewsOnSuicideBombings.png"
+        }
+      ]
+    },
+    {
+      "title": "Hamas usage of civilian infrastructure",
+      "file": "Hamas usage of civilian infrastructure.md",
+      "tags": ["hamas", "war crimes", "human shields"],
+      "attachments": [
+        {
+          "type": "video",
+          "file": "Footage From the Search of the Jabriyat Mosque.mp4"
+        },
+        {
+          "type": "video",
+          "file": "Footage from the Khalid Ibn al Walid Mosque in Jenin.mp4"
+        },
+        {
+          "type": "video",
+          "file": "Footage from the Abu Bakr al Siddiq Mosque.mp4"
+        },
+        {
+          "type": "video",
+          "file": "IDF Soldiers Find Mosque with Weapons and Tunnel Openings.mp4"
+        },
+        {
+          "type": "video",
+          "file": "IDF Forces Find & Destroy Terror Tunnel In Gaza Mosque.mkv"
+        },
+        {
+          "type": "image",
+          "file": "https://i.postimg.cc/0jSbsrLR/6ddf9d4b-4ccf-41c4-9b21-4be22572f597.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Hamas usage of human shields",
+      "file": "Hamas usage of human shields.md",
+      "tags": ["hamas", "war crimes", "human shields"],
+      "attachments": [
+        {
+          "type": "pdf",
+          "file": "Hamas usage of human shields - external PDF that dives deeper.pdf"
+        },
+        {
+          "type": "image",
+          "file": "rocketundergirlbedingaza.jpg"
+        },
+        {
+          "type": "image",
+          "file": "Hamasuseofhumanshields.jpg"
+        },
+        {
+          "type": "image",
+          "file": "https://pbs.twimg.com/media/F96IXd4XwAAmT2C?format=jpg&name=900x900"
+        },
+        {
+          "type": "video",
+          "file": "humanshields.mov"
+        }
+      ]
+    },
+    {
+      "title": "How Wikipedia distorts the Israeli War of Independence",
+      "file": "How Wikipedia distorts the Israeli War of Independence.md",
+      "tags": ["wikipedia", "propaganda", "history"]
+    },
+    {
+      "title": "Palestine was never a country",
+      "file": "Palestine was never a country.md",
+      "tags": ["palestine", "history", "myth", "geography"],
+      "attachments": [
+        {
+          "type": "image",
+          "file": "Palestine was never a country - picture debunking common myth.png"
+        },
+        {
+          "type": "image",
+          "file": "NetiveyEretzIsrael.png"
+        },
+        {
+          "type": "image",
+          "file": "Pre1948PalestinianWereJews.jpg"
+        },
+        {
+          "type": "video",
+          "file": "https://ia800804.us.archive.org/27/items/where-the-name-palestinians-came-from/WhereTheNamePalestiniansCameFrom.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Palestinian Leaders do not want to live beside jews",
+      "file": "Palestinian Leaders do not want to live beside jews.md",
+      "tags": ["palestine", "leaders", "jews", "politics"],
+      "attachments": []
+    },
+    {
+      "title": "Rape on oct 7th by hamas",
+      "file": "Rape on oct 7th by hamas.md",
+      "tags": ["hamas", "rape", "october 7th", "war crimes"],
+      "attachments": [
+        {
+          "type": "video",
+          "file": "hamaterroristadmitrape.mp4"
+        },
+        {
+          "type": "video",
+          "file": "Gazan terrorist captured by Israel confess Hamas had plans to rape young Israeli women.mp4"
+        },
+        {
+          "type": "video",
+          "file": "https://video.wixstatic.com/video/fe5cbf_c57f9b7f38574af58ad883a83f85a48f/1080p/mp4/file.mp4"
+        },
+        {
+          "type": "video",
+          "file": "https://video.wixstatic.com/video/fe5cbf_9a89d149d2364e1ba9b05697285e3abd/1080p/mp4/file.mp4"
+        },
+        {
+          "type": "video",
+          "file": "https://video.wixstatic.com/video/fe5cbf_0cc05573cf304f68b2b509e953035e8a/1080p/mp4/file.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Senior UNRWA officials exposed as Hamas members",
+      "file": "Senior UNRWA officials exposed as Hamas members.md",
+      "tags": ["hamas", "unrwa", "terrorism"],
+      "attachments": [
+        {
+          "type": "image",
+          "file": "FatahSharidUnrwaHamas1.jpg"
+        },
+        {
+          "type": "image",
+          "file": "FatahSharidUnrwaHamas2.jpg"
+        }
+      ]
+    },
+    {
+      "title": "UNRWA's Ties to Hamas and Terrorism",
+      "file": "UNRWA's Ties to Hamas and Terrorism.md",
+      "tags": ["hamas", "unrwa", "terrorism"],
+      "attachments": [
+        {
+          "type": "video",
+          "file": "https://a7.org/media/a7radio/misc/video/23/dec/26aza.mp4"
+        },
+        {
+          "type": "video",
+          "file": "UNRWAWorksWithHamas1.mp4"
+        },
+        {
+          "type": "video",
+          "file": "UNRWAWorksWithHamas2.ia.mp4"
+        }
+      ]
+    }
+  ]
+}
